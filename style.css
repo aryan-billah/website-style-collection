@@ -1,0 +1,67 @@
+/*UNIVERSAL DESIGN*/
+* {
+  font-family: Oswald, "Playwrite AU NSW", "Playfair Display";
+  font-weight: normal;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.ital {
+  font-style: italic;
+}
+
+
+/*BOX CONTAINER DESIGN*/
+.box {
+  border: gray 1px solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* COLOUR DISPLAY DESIGNS*/
+.colordisplay {
+  width: 200px;
+  height: 150px;
+  border: 1px darkgray dotted;
+  display: inline-block;
+  margin-left: 3px;
+  margin-bottom: 6px;
+  text-align: center;
+}
+
+p.colorname {
+  text-align: center;
+  color: blue;
+
+}
+
+.LightBlueGreen {
+  background-color: #6ed3cf;
+}
+
+.SoftPurple {
+  background-color: #9068be;
+}
+
+.TastyEightiesGray {
+  background-color: #e1e8f0;
+}
+
+.RichRed {
+  background-color: #e62739;
+}
+
+/*FONT FAMILY SECTION*/
+.fontdisplay {
+  display: inline-block;
+}
+
+.playwrite {
+  font-family: "Playwrite AU NSW";
+}
+
+.playfair {
+  font-family: "Playfair Display";
+}
